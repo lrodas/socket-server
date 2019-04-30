@@ -13,9 +13,11 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "nodemon": "^1.18.11"
+    "nodemon": "^1.18.11",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
-    "@types/cors": "^2.8.5"
+    "@types/cors": "^2.8.5",
+    "@types/socket.io": "^2.1.2"
   }
 }
